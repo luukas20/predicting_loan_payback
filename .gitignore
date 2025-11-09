@@ -1,0 +1,18 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.keras
+
+# Arquivos de editores e SO
+.vscode/
+.idea/
+.DS_Store
+dataset/
+models/
